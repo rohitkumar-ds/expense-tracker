@@ -1,0 +1,30 @@
+ExpenseID,Date,Category,Description,Amount
+1,2026-05-28,Food,Breakfast,120
+2,2026-05-28,Travel,Bus Fare,40
+3,2026-05-29,Shopping,Notebook,250
+4,2026-05-30,Bills,Electricity Bill,1800
+6,2026-06-02,Entertainment,Movie Ticket,350
+7,2026-06-03,Travel,Auto Fare,80
+8,2026-06-04,Health,Medicine,650
+9,2026-06-05,Food,Dinner,450
+10,2026-06-06,Shopping,T-Shirt,899
+11,2026-06-07,Bills,Internet Bill,999
+12,2026-06-08,Education,Python Book,650
+13,2026-06-09,Food,Coffee,150
+14,2026-06-10,Travel,Train Ticket,650
+15,2026-06-11,Entertainment,Netflix Subscription,499
+16,2026-06-12,Shopping,Shoes,2499
+17,2026-06-13,Health,Doctor Consultation,800
+18,2026-06-14,Food,Groceries,1850
+19,2026-06-15,Bills,Water Bill,550
+20,2026-06-16,Education,Online Course,2999
+21,2026-06-17,Travel,Cab Fare,300
+22,2026-06-18,Food,Pizza,650
+23,2026-06-19,Entertainment,Concert Ticket,1800
+24,2026-06-20,Shopping,Headphones,3200
+25,2026-06-21,Health,Gym Membership,1500
+26,2026-06-22,Food,Ice Cream,180
+27,2026-06-23,Bills,Mobile Recharge,399
+28,2026-06-24,Education,USB Drive,799
+29,2026-06-25,Travel,Metro Card Recharge,500
+30,2026-06-26,Food,Burger,280
